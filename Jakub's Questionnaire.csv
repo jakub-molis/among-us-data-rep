@@ -1,0 +1,22 @@
+Timestamp,colour,bed,glasses,darkmode,break
+2023/11/15 2:58:55 PM GMT,Blue,Right,Yes,Yes,Every 2 hours
+2023/11/15 3:03:04 PM GMT,Yellow,Left,No,Mix of both,Every 2 hours
+2023/11/15 3:04:17 PM GMT,Blue,Right,No,Mix of both,Breaks?
+2023/11/15 3:06:10 PM GMT,Blue,Left,Yes,Yes,Every 20-40 mins
+2023/11/15 3:07:11 PM GMT,Blue,Right,No,Mix of both,Breaks?
+2023/11/15 3:10:21 PM GMT,Blue,Left,No,Yes,Every 40-60 mins
+2023/11/15 3:10:57 PM GMT,Red,Right,Yes,Yes,Breaks?
+2023/11/15 3:18:17 PM GMT,Red,Hop off the end,Yes,No,Every 20-40 mins
+2023/11/15 3:18:22 PM GMT,Blue,Right,Yes,No,Every 40-60 mins
+2023/11/15 3:20:17 PM GMT,Blue,Right,No,Yes,Every 40-60 mins
+2023/11/15 3:20:32 PM GMT,Blue,Hop off the end,Yes,No,Every 4 hours
+2023/11/15 3:29:34 PM GMT,Blue,Left,Yes,Yes,Every 40-60 mins
+2023/11/15 3:32:39 PM GMT,Yellow,Left,Yes,Yes,Breaks?
+2023/11/15 3:44:49 PM GMT,Yellow,Right,No,Mix of both,Every 2 hours
+2023/11/15 3:57:35 PM GMT,Yellow,Right,Yes,Mix of both,Breaks?
+2023/11/15 4:07:48 PM GMT,Red,Left,Yes,Yes,Breaks?
+2023/11/15 4:25:38 PM GMT,Blue,Hop off the end,No,Yes,Every 2 hours
+2023/11/15 4:35:03 PM GMT,Red,Climb over the bed board?,Yes,Mix of both,Every 40-60 mins
+2023/11/15 7:42:59 PM GMT,Blue,Left,No,Yes,Every 2 hours
+2023/11/15 7:55:45 PM GMT,Yellow,Climb over the bed board?,Yes,Yes,Every 3 hours
+2023/11/16 11:32:38 AM GMT,Red,Right,Yes,No,Every 2 hours
